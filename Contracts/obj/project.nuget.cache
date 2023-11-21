@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q+5F1S0El4Tyxr+/h99EuuBMtXbPq9xccMF2nclCF92dT8GxNhEiq+M3HZMo2U5n2ugFAH03NybWp+TMuvo+JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\17275\\source\\repos\\CommandApi\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\17275\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
